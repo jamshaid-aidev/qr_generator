@@ -70,3 +70,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# This script allows users to generate QR codes either from their own input text or from randomly generated text. It uses the `qrcode` library to create the QR code and saves it as an image file. The user can specify a filename for the saved QR code image, and if no filename is provided, it defaults to "my_qr_code.png". The generated QR code image is also displayed after creation.
